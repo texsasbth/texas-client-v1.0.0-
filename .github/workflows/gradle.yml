@@ -1,6 +1,4 @@
-name: Build texas client
-
-on:
+name: Build texas clienton:
   workflow_dispatch:
   push:
     branches:
